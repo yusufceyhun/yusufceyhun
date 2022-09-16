@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yusufceyhun
 - 👀 I’m interested in blockchain, fin-tech, web-deb, mobile app-dev...
-- 🌱 I’m currently learning C-C++, HTML, CSS, JavaScript
+- 🌱 I’m currently learning React Native!
 - 📫 How to reach me instagram: @yceyhunv
 
 <!---
